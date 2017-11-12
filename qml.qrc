@@ -2,5 +2,12 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>fonts/Yantramanav/Yantramanav-Black.ttf</file>
+        <file>fonts/Yantramanav/Yantramanav-Bold.ttf</file>
+        <file>fonts/Yantramanav/Yantramanav-Light.ttf</file>
+        <file>fonts/Yantramanav/Yantramanav-Medium.ttf</file>
+        <file>fonts/Yantramanav/Yantramanav-Regular.ttf</file>
+        <file>fonts/Yantramanav/Yantramanav-Thin.ttf</file>
+        <file>Fonts.qml</file>
     </qresource>
 </RCC>

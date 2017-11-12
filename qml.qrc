@@ -8,6 +8,7 @@
         <file>fonts/Yantramanav/Yantramanav-Medium.ttf</file>
         <file>fonts/Yantramanav/Yantramanav-Regular.ttf</file>
         <file>fonts/Yantramanav/Yantramanav-Thin.ttf</file>
-        <file>Fonts.qml</file>
+        <file>Clock.qml</file>
+        <file>SecondsProgress.qml</file>
     </qresource>
 </RCC>

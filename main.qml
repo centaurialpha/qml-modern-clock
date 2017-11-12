@@ -8,4 +8,12 @@ ApplicationWindow {
     height: 480
     title: qsTr("QML Modern Clock")
 
+    Rectangle {
+        anchors.fill: parent
+        color: "#000"
+
+        Clock {
+            anchors.centerIn: parent
+        }
+    }
 }

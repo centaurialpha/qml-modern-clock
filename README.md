@@ -1,7 +1,7 @@
 # Modern Clock QML
 
 
-
+![modern-clock](https://i.imgur.com/COqYMiT.png)
 
 License
 -------
